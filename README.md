@@ -17,4 +17,4 @@ SLA & Alerting: Automated escalation alerts sent to management if a premium lead
 Dashboards: Configuration of analytical reporting dashboards to track real-time pipeline conversion rates, agent response times (Time-to-Respond), and exact return on investment (ROI) from Meta Ads and property listing portals.
 Tools used: HubSpot CRM (Blueprint), MailerLite, ManyChat, Meta Ads, Miro, API/Integrations.
 
-![CRM Architecture Blueprint](Case study 1 - Workflow ENG.jpg)
+![CRM Architecture Blueprint](./Case study 1 - Workflow ENG.jpg)
