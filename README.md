@@ -1,5 +1,7 @@
 Sales Automation Deployment (Real Estate) & CRM Architecture
+
 Technical Objective
+
 To build a flawless, budget-friendly data flow architecture (ManyChat -> MailerLite) aimed at plugging leaks in the sales pipeline for the final 4 premium houses, and to deliver a comprehensive technical blueprint for a future HubSpot CRM migration.
 Implemented System Configurations (Current State - MVP)
 
