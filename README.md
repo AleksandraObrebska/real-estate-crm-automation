@@ -18,19 +18,4 @@ Dashboards: Configuration of analytical reporting dashboards to track real-time 
 Tools used: HubSpot CRM (Blueprint), MailerLite, ManyChat, Meta Ads, Miro, API/Integrations.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![CRM Architecture Blueprint](Case study 1 - Workflow ENG.jpg)
+![CRM Architecture Blueprint](Case studyWorkflowENG.jpg)
