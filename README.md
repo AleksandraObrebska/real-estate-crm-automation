@@ -1,4 +1,4 @@
-Sales Automation Deployment (Real Estate) & CRM Architecture
+<b>Sales Automation Deployment (Real Estate) & CRM Architecture</b>
 
 Technical Objective
 
@@ -23,7 +23,7 @@ As part of preparing the client for operational scaling, I mapped out a comprehe
 - Advanced Workflows: Automated Task creation for sales agents and an automatic webhook call to the legal team triggered instantly when a deal is moved to the "Reservation" stage.
 - SLA & Alerting: Automated escalation alerts sent to management if a premium lead remains stagnant at the presentation stage for more than 5 days.
 - Dashboards: Configuration of analytical reporting dashboards to track real-time pipeline conversion rates, agent response times (Time-to-Respond), and exact return on investment (ROI) from Meta Ads and property listing portals.
-<br></br>
+
 Tools used: HubSpot CRM (Blueprint), MailerLite, ManyChat, Meta Ads, Miro, API/Integrations
 
 
